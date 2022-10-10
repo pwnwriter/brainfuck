@@ -15,5 +15,6 @@ install:
 uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/brainfuck
 
-test:
-	brainfuck testbrainfuck.bf
+test:	
+	gcc ${FLAGS} brainfuck.c -o brainfuck
+	./brainfuck testbrainfuck.bf
