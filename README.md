@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/pwnwriter/website/main/image/brainfck.png" height "100" width="100px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/pwnwriter/files/main/brainfuck/logos/brainfuck_white.png" height "100" width="100px"></p>
 <h2 align="center">The 🧠 Fuck Interpreter</h2>
 
 
