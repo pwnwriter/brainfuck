@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/pwnwriter/files/main/brainfuck/logos/brainfuck_white.png" height "100" width="100px"></p>
-<h2 align="center">The 🧠 Fuck Interpreter</h2>
+<h2 align="center">The 🧠 Fvck Interpreter</h2>
 
 
 <p align="center">A pretty tiny interpreter for the programming language brainfuck</p>
